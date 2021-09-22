@@ -1,0 +1,27 @@
+2021-09-16:
+
+==================================
+Stanford Portable Library
+CLion-project for MacOSX platforms
+==================================
+
+Prerequisites:
+
+- Java Runtime Environment
+
+Download and install from
+https://www.oracle.com/java/technologies/downloads/#jdk17-mac
+
+
+
+- CLion
+
+Download link: https://www.jetbrains.com/clion/download/#section=mac
+Install and activate with free licence.
+Then, apply for a student's licence at
+https://www.jetbrains.com/shop/eform/students
+
+
+
+Now open the directory containing this README as a CLion project.
+
