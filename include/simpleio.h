@@ -4,15 +4,15 @@
 #include "simpio.h"
 
 static int putInteger (int nr) {
-    return printf("%d\n", nr);
+    return printf("%d", nr);
 }
 
 static int putLong (long nr) {
-    return printf("%ld\n", nr);
+    return printf("%ld", nr);
 }
 
 static int putReal (double nr) {
-    return printf("%f\n", nr);
+    return printf("%f", nr);
 }
 
 static int putLine (char *l) {
