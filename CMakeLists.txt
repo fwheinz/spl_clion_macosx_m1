@@ -3,7 +3,7 @@ project(StarterProject)
 
 set(CMAKE_C_STANDARD 11)
 
-set(SOURCE_FILES AddNumbers.c)
+set(SOURCE_FILES PacMan.c)
 
 # Include Directories
 include_directories("include")
